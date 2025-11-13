@@ -1,0 +1,5 @@
+{
+  "name": "Évaluation Comportementale",
+  "description": "An application for teachers to evaluate student behavior in the classroom, with AI-powered comment generation.",
+  "requestFramePermissions": []
+}
